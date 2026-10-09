@@ -1,0 +1,27 @@
+Week 8 – Local LLM Inference Using Ollama
+
+Model: llama3.2
+Interface: Streamlit
+
+Conversation 1
+
+User Prompt:
+Explain universe in simple words.
+
+Model Response:
+Here's a brief overview of the universe:
+
+The Universe:
+
+Estimated to be 13.8 billion years old
+Comprises approximately 100-400 billion stars, including our Sun
+Includes galaxies, galaxy clusters, and superclusters
+Made up of 70% dark energy, 25% dark matter, and 5% regular matter
+Expanding and evolving over time
+That's a brief glimpse into the vast expanse of the universe!
+
+
+
+Observation:
+The local model generated a response to the user's prompt through the Streamlit interface.
+
